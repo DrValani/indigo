@@ -4,43 +4,40 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Mainly to share my thoughts and document the practices that have helped/hindered me along the way and while this site is very much a work in progress, I hope to iteratively add more useful content.
 
-<h2>Skills</h2>
+## Features
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+* What not to do when programming in academic environment...
+* Best agile practices
+* Best software development practices
+* TDD approach to learning new features to any programming language
+* Being able to view my phd results as animations
+* Description of my PhD
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+## I was inspired and helped by...
+
+my colleague [John Nye][8] to build this website. Thank you for breaking the mental barriers I had around creating a blog.
+Also for kicking me off with Jekyll.
+
+## Website template
+
+I used *Indigo*, and you can make it yours and if you like it, please link back to <a href="https://github.com/sergiokopplin/indigo">Indigo</a>.
+
+#### Thanks for reading
+
+Yours sincerelly, Yogendra Valani
+
+
+ [1]: http://mademistakes.com/about/
+ [2]: http://mademistakes.com/work/jekyll-themes/
+ [3]: http://automattic.com/
+ [4]: http://alistapart.com/
+ [5]: http://www.smashingmagazine.com/
+ [6]: https://github.com/
+ [7]: http://sauer.io
+ [8]: http://jnye.co
+ [9]: #
+ [10]: #
