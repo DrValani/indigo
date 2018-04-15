@@ -8,7 +8,9 @@ tag:
 - markdown
 - components
 - extra
-category: blog
+projects: true
+hidden: true
+category: project
 author: Yogendra Valani
 description: "Saving over £125K per annum proud to be a part of the project from inception to delivery. We overcame many challenges such as integrating into a established legacy workflow."
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
