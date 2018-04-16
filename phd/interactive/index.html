@@ -1,0 +1,27 @@
+---
+layout: page-fullwidth
+title: "Interactive Results"
+---
+The zeros are of the exact partition function 5x5x5 lattice.
+<section class="row">
+<div id="graph" class="zeroplots"/>
+</section>
+
+<script src="http://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dygraph/1.1.0/dygraph-combined.js"></script>
+<script>
+g = new Dygraph(
+document.getElementById("graph"),
+"2-05x05x10-110.data",
+{
+delimiter: ' ',
+drawPoints: true,
+strokeWidth: 0,
+axes: {
+x : { drawAxis: false, drawGrid: false, valueRange: [-2,2] },
+y : { drawAxis: false, drawGrid: false, valueRange: [-2,2] }
+},
+height: 500,
+width: 500
+});
+</script>
