@@ -17,19 +17,17 @@ description: "A presentation of my phd results beyond the restrictions of printe
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 ## Interactive Results {#interactive}
-A first stab at displaying results that allow the user to zoom in/out and overlay other results. [Interactive Sandbox]({{ site.url }}/phd/interactive/)
+A first stab at displaying results that allow the user to zoom in/out and overlay other results. [Interactive
+Sandbox]({{ site.url }}/phd/interactive/)
 
 ## Results {#results}
-Partition functions can be represented in terms of polynomials. These results are displayed in terms of the zeros of the polynomials, plotted in the complex plane.
+Partition functions can be represented in terms of polynomials. These results are displayed in terms of the zeros of
+the polynomials, plotted in the complex plane.
 
 [Result Zero and Polynomial]({{ site.url }}/phd/results/)
 
 
 <small markdown="1">[Up to table of contents](#toc)</small>
-{: .text-right }
-
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
-
- [1]: {{ site.url }}/blog/
